@@ -1,0 +1,6 @@
+[submodule "Arduino/config/libraries/modmata"]
+	path = Arduino/config/libraries/modmata
+	url = https://github.com/shutch42/modmata
+[submodule "ModmataC"]
+	path = ModmataC
+	url = git@github.com:shutch42/ModmataC.git

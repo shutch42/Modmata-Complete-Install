@@ -4,9 +4,3 @@
 [submodule "ModmataC"]
 	path = ModmataC
 	url = https://github.com/shutch42/ModmataC.git
-[submodule "Arduino/config/libraries/LiquidCrystal"]
-	path = Arduino/config/libraries/LiquidCrystal
-	url = https://github.com/arduino-libraries/LiquidCrystal
-[submodule "Arduino/config/libraries/Servo"]
-	path = Arduino/config/libraries/Servo
-	url = https://github.com/arduino-libraries/Servo.git

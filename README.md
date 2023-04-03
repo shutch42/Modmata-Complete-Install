@@ -9,6 +9,7 @@ A complete installer/uploader for getting started with Modmata.
 1. The installer will only run on an x64/x86 Linux system
 2. Git must be installed on the system, since the installer will be downloading submodules
 3. An Arduino Leonardo must be connected via USB while the installer is running
+    - If you are using this installer on a LattePanda, nothing needs to be connected
 
 ## Usage
 Simply run the Makefile with `make`. If you wish to uninstall Modmata, use the Makefile in the ModmataC directory. Just type `sudo make uninstall`.

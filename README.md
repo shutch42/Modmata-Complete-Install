@@ -7,7 +7,7 @@ A complete installer/uploader for getting started with Modmata.
 
 ## Requirements
 1. The installer will only run on an x64/x86 Linux system
-2. Git must be installed on the system, since the installer will be downloading submodules
+2. If you are compiling/installing from source, Git must be installed on the system. You can skip this if you install from [the release](https://github.com/shutch42/Modmata-Complete-Install/releases/download/v1/Modmata.tar.gz).
 3. An Arduino Leonardo must be connected via USB while the installer is running
     - If you are using this installer on a LattePanda, nothing needs to be connected
 

@@ -1,4 +1,5 @@
 all:	
+	git submodule update --init --recursive
 	cd Arduino && make
 	cd ModmataC && sudo make install
 	gcc ModmataC/Examples/blink/blink.c -lModmataC -o blink

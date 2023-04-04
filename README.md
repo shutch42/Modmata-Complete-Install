@@ -12,4 +12,4 @@ A complete installer/uploader for getting started with Modmata.
     - If you are using this installer on a LattePanda, nothing needs to be connected
 
 ## Usage
-Simply run the Makefile with `make`. If you wish to uninstall Modmata, use the Makefile in the ModmataC directory. Just type `sudo make uninstall`.
+To install from source or the tarball, simply run the Makefile with `make`. If you wish to uninstall Modmata, use the Makefile in the ModmataC directory. Just type `sudo make uninstall`.
